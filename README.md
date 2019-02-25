@@ -5,3 +5,5 @@ Sentiment_Analysis.ipynb contains Machine Learning Code of Sentiment Analysis do
 Sentiment_Neural.ipynb contains Neural Architecture of Sentiment Analysis trained in both the manner using LSTM as well as without LSTM.
 
 Sentiment Analysis using GloVe Embeddings.ipynb contains Neural Network trained using GloVe Embeddings.
+
+Own Embeddings contains self trained embeddings using skip-gram algorithm. However due to very small dataset embeddings might not be that well trained, therefore we will be using pre-trained word embeddings for our sentiment analysis project.
